@@ -5,6 +5,6 @@
 
 
 
-On local
+On your local
 
     gem install suspenders
