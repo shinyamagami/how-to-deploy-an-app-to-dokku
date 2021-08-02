@@ -7,7 +7,7 @@
 
 On your local
 
-    gem install suspenders
+    git clone https://github.com/shinyamagami/ruby-getting-started.git
 
 
 
@@ -23,3 +23,6 @@ Deploying an app
   
   https://github.com/thoughtbot/suspenders/blob/main/docs/heroku_deploy.md
   dokku config:set APPLICATION_HOST=URL
+
+
+https://pawelurbanek.com/rails-heroku-dokku-migration
