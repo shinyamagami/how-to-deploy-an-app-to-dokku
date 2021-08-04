@@ -10,7 +10,10 @@ On your local
     gem install suspenders
     suspenders appname
 
-
+First commit
+    git remote add remotename dokku@ipaddress:appname
+    git push -u dokku main:main  
+    
 
 
 Deploying an app
