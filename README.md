@@ -9,6 +9,10 @@ On your local
 
     gem install suspenders
     suspenders appname
+    
+
+Delete the line in config/application.rb below so that Rails generates tests
+    generate.test_framework :minitest, spec: true, fixture: false
 
 First commit
     git remote add remotename dokku@ipaddress:appname
