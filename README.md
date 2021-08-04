@@ -14,6 +14,14 @@ On your local
 Delete the line in config/application.rb below so that Rails generates tests
 
     generate.test_framework :minitest, spec: true, fixture: false
+    
+
+Line to delete
+config/environments/development.rb
+test.rb
+
+      config.action_view.raise_on_missing_translations = true
+
 
 
 First commit
