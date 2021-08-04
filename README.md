@@ -7,7 +7,8 @@
 
 On your local
 
-    git clone https://github.com/shinyamagami/ruby-getting-started.git
+    gem install suspenders
+    suspenders appname
 
 
 
