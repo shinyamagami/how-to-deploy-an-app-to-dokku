@@ -11,6 +11,7 @@ On your local
     suspenders appname
     
 
+# to do when use the original suspenders
 Delete the line in config/application.rb below so that Rails generates tests
 
     generate.test_framework :minitest, spec: true, fixture: false
@@ -22,6 +23,8 @@ test.rb
 
       config.action_view.raise_on_missing_translations = true
 
+
+# nya
 
 
 First commit
