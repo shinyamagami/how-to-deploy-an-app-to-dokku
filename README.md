@@ -48,3 +48,7 @@ Deploying an app
 
 
 https://pawelurbanek.com/rails-heroku-dokku-migration
+
+
+
+https://support.google.com/a/answer/9011373?hl=en
